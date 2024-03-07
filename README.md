@@ -29,7 +29,7 @@ pip3 install base58check
 >>> import base58check
 ```
 
-### decoding
+### encoding
 ```python
 >>> base58check.b58encode('\x00v\x80\xad\xec\x8e\xab\xca\xba\xc6v\xbe\x9e\x83\x85J\xde\x0b\xd2,\xdb\x0b\xb9`\xde')
 b'1BoatSLRHtKNngkdXEeobR76b53LETtpyT'
